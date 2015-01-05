@@ -1,0 +1,51 @@
+#header .pages {
+	padding:0px;
+	margin:0px;
+	height:18px;	
+	list-style-type: none;
+	float:left;
+	width:650px;
+	margin-top:24px;
+	margin-left:30px;
+}
+
+#header .search {
+margin:0 0 0 0;
+padding:0px;
+BORDER: 0px;  
+float:right;
+line-height:1.5em; 
+Text-Align:right;
+FONT-FAMILY: arial;
+width:300px;
+height:23px;
+FONT-SIZE:87%;
+margin-top:18px;
+margin-right:41px;
+}
+
+#header_2 .ad {
+	padding:0px;
+	margin:0px;
+	float:right;
+	padding-top: 30px;
+	margin-right:32px;
+	height:60px;
+	width:468px;
+}
+
+#content {
+	padding: 0px;
+	margin:0px;
+	width: 640px;
+	float: left;
+	margin-left:40px;	
+}
+
+#sidebar {
+	padding:0px;
+	margin:0px;
+	width: 285px;
+	float: right;
+	margin-right:35px;
+}
